@@ -1,39 +1,25 @@
+
 {
-  "background_color": "#ffffff",
-  "description": "All-in-one free online tools for text, writing and calculators.",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "Pixaiix Tools",
-  "orientation": "any",
-  "scope": "/",
   "short_name": "pixaiix",
+  "id": "com.pixaiix.tools",
+  "description": "Pixaiix Tools provides free online text tools and calculators like word counter, case converter, GST calculator, EMI calculator, SIP calculator and more.",
   "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
   "theme_color": "#f4f4f4",
   "icons": [
     {
-      "src": "https://pixaiix.blogspot.com/favicon.ico",
-      "type": "image/x-icon",
-      "isSquare": false,
-      "isPng": false,
-      "isWebp": false,
-      "isJpg": false,
-      "width": 0,
-      "is512x512": false,
-      "is256x256": false,
-      "is192x192": false
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
     },
     {
-      "src": "https://pixaiix.blogspot.com/favicon.ico",
-      "type": "image/x-icon",
-      "isSquare": false,
-      "isPng": false,
-      "isWebp": false,
-      "isJpg": false,
-      "width": 0,
-      "is512x512": false,
-      "is256x256": false,
-      "is192x192": false
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
-  ],
-  "id": "com.pixaiix.tools"
+  ]
 }
