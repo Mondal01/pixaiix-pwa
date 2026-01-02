@@ -1,9 +1,9 @@
 
 {
   "name": "Pixaiix Tools",
-  "short_name": "pixaiix",
+  "short_name": "Pixaiix",
   "id": "com.pixaiix.tools",
-  "description": "Pixaiix Tools provides free online text tools and calculators like word counter, case converter, GST calculator, EMI calculator, SIP calculator and more.",
+  "description": "Pixaiix Tools provides free online text tools and calculators like word counter, GST calculator, EMI calculator, SIP calculator and more.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
